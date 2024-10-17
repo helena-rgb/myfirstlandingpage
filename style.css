@@ -25,3 +25,11 @@ ul {
     font-weight: bold;
 }
 
+.hero {
+    display: flex;
+}
+
+.hero-text {
+    display: flex;
+    flex-direction: column;
+}
