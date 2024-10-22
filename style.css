@@ -62,3 +62,15 @@ button {
     width: 100px;
     font-weight: bold;
 }
+
+.icon-section {
+    display: flex;
+}
+
+.box {
+    width: 100px;
+    height: 200px;
+    border: 10px #3882f6;
+    border-style: solid;
+    border-radius: 6px;
+}
