@@ -102,3 +102,24 @@ button {
     flex-direction: column;
     justify-content: space-between;
 }
+
+.quote-section {
+    background-color: #E5E7EB;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 125px;
+    padding-bottom: 125px;
+}
+
+.quote{
+    color: #1F2937; 
+    font-style: italic;
+    font-size: 36px;
+    font-weight: lighter;
+}
+
+.writer {
+    font-weight: bold;
+    font-size: 18px;
+    text-align: right;
+}
