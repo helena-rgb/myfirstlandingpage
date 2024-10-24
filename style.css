@@ -123,3 +123,40 @@ button {
     font-size: 18px;
     text-align: right;
 }
+
+.button2 {
+    border-style: solid;
+    border-color: #f9faf8;
+    border-width: 2px;
+    height: 36px;
+}
+
+.widget {
+    color: #f9faf8;
+    background-color: #3882f6;
+    margin: 100px;
+    display: flex;
+    padding: 30px;
+    padding-top: 45px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 45px;
+    justify-content: center;
+    gap: 95px;
+    border-radius: 9px;
+}
+
+.text2 {
+    color:#f9faf8;
+    font-weight: lighter;
+    font-size: 16px;
+}
+
+.CTA {
+    color: #f9faf8;
+    font-weight: bold;
+    font-size: 18px;
+    padding-bottom: 4px;
+}
+
+
